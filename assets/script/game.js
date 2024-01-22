@@ -41,6 +41,8 @@ cc.Class({
 
     start() {
 
+      
+
     },
 
   
